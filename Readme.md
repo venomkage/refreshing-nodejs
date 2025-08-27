@@ -7,10 +7,11 @@ I am choosing JS based backend tech because I already have some experience in JS
 ## Update as of 27 July 2025
 1. So, as of now. I have made complete app in ExpressJS with MySQL.
 2. Deployed backend on AWS EC2. It means:
-    2.1. Setting up the instance(installing OS and all).
-    2.2. Connecting through SSH.
-    2.3. Installing node and mysql on that instance.
-    2.4. Transferring all file from local machine.
+    <br/>
+    2.1. Setting up the instance(installing OS and all).<br/>
+    2.2. Connecting through SSH.<br/>
+    2.3. Installing node and mysql on that instance.<br/>
+    2.4. Transferring all file from local machine.<br/>
     2.5. Caddy and .service for letting the server always run.
 
 ## Further plans
